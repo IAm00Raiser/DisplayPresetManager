@@ -37,7 +37,7 @@ display-preset-manager
    ```
 
 ### Option 3: Standalone Executable
-1. Download the latest release from GitHub
+1. Download the latest release from GitHub https://github.com/IAm00Raiser/DisplayPresetManager/blob/master/dist/DisplayPresetManager.exe
 2. Run `DisplayPresetManager.exe` as administrator
 
 ## Usage
