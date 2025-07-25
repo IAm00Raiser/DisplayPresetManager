@@ -1,0 +1,66 @@
+{
+  "Onsite": {
+    "displays": [
+      {
+        "device_name": "\\\\.\\DISPLAY1",
+        "resolution": [
+          3840,
+          2160
+        ],
+        "refresh_rate": 60,
+        "position": [
+          0,
+          0
+        ],
+        "orientation": 0,
+        "scale": 100
+      },
+      {
+        "device_name": "\\\\.\\DISPLAY2",
+        "resolution": [
+          2560,
+          1440
+        ],
+        "refresh_rate": 164,
+        "position": [
+          1920,
+          0
+        ],
+        "orientation": 0,
+        "scale": 100
+      }
+    ]
+  },
+  "Remote": {
+    "displays": [
+      {
+        "device_name": "\\\\.\\DISPLAY1",
+        "resolution": [
+          2560,
+          1600
+        ],
+        "refresh_rate": 60,
+        "position": [
+          0,
+          0
+        ],
+        "orientation": 0,
+        "scale": 100
+      },
+      {
+        "device_name": "\\\\.\\DISPLAY2",
+        "resolution": [
+          1920,
+          1200
+        ],
+        "refresh_rate": 164,
+        "position": [
+          1920,
+          0
+        ],
+        "orientation": 0,
+        "scale": 100
+      }
+    ]
+  }
+}
